@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.MatematicaBasica", "ExerciciosProfRomulo.MatematicaBasica\ExerciciosProfRomulo.MatematicaBasica.csproj", "{8843EED7-D6AF-43B3-89D3-4415BD92B5F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.EscolinhaTicTic", "ExerciciosProfRomulo.EscolinhaTicTic\ExerciciosProfRomulo.EscolinhaTicTic.csproj", "{65E9F843-B84B-4108-84D8-6DCAB78DEF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8843EED7-D6AF-43B3-89D3-4415BD92B5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843EED7-D6AF-43B3-89D3-4415BD92B5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843EED7-D6AF-43B3-89D3-4415BD92B5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843EED7-D6AF-43B3-89D3-4415BD92B5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E9F843-B84B-4108-84D8-6DCAB78DEF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E9F843-B84B-4108-84D8-6DCAB78DEF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E9F843-B84B-4108-84D8-6DCAB78DEF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E9F843-B84B-4108-84D8-6DCAB78DEF55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E74C71-578A-48D1-8087-713650C43063}
+	EndGlobalSection
+EndGlobal
